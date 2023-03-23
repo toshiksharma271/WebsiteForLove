@@ -26,7 +26,8 @@
     transition: 0.5s;
     transform-style: preserve-3d;
     overflow: hidden;
-    margin-right: 15px;
+    margin-left: 90px;
+    margin-right: 0px;
     margin-top: 45px;
   }
   .container:hover .box {
