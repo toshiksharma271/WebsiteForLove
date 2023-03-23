@@ -26,9 +26,9 @@
     transition: 0.5s;
     transform-style: preserve-3d;
     overflow: hidden;
-    margin-left: 90px;
+    margin-left: 95px;
     margin-right: 0px;
-    margin-top: 45px;
+    margin-top: 45px; 
   }
   .container:hover .box {
     transform: rotateY(25deg);
@@ -106,4 +106,8 @@
   .container .box:hover .content p {
     transform: translateY(0px);
   }
-  
+  .para{
+    margin-left: 9%;
+   border: 2px solid transparent;
+   width: 70%;
+  }
